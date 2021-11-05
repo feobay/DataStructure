@@ -8,7 +8,7 @@
 
 #include<iostream>
 using namespace std;
-const int N = 10010, M = 100010;
+const int N = 100010, M = 1000010;
 char p[N], s[M];//p为模式串， s为主串（即待匹配串）
 int n, m;
 int ne[N];
