@@ -1,7 +1,6 @@
 //双链表的创建，遍历，插入，删除
 #include<cstdio>
 #include<cstdlib>
-#include<cassert>
 typedef int Elemtype;
 typedef struct DoubleNode {
     int val;
